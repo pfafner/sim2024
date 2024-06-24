@@ -22,34 +22,36 @@ La primera parte el curso se enfoca en temas sobre cálculo de autovalores y aut
 # Prerrequisitos
 
 Se recomienda que los estudiantes antes del curso estén habituados con los temas:
-* Cálculo vectorial
+* Cálculo en varias variables
 * Álgebra lineal (teoría)
-* Algunos elementos de análisis (convergencia de secuencias y series, análisis en Rn)
-* Métodos numéricos para una variable (*root finding*, *fitting*, *numerical differentiation and integration*)
+* Ecuaciones diferenciales ordinarias
+* Probabilidad y estadística
 * Un curso de Programación.
 
 
 # Programa del curso
 <div id='id-programa'/>
 
-[Programa del curso](programa/Programa-opt2023.pdf){:target="_blank"}
+[Programa del curso](programa/Programa-sim2024.pdf){:target="_blank"}
 
 ### Horario
 <div id='id-horario'/>
 
-* Martes de 19:50 a 21:25 CIT-501, y Jueves de 19:50 a 21:25 CIT-414.
+* Lunes de 19:50 a 21:25 TBA, y Miércoles de 19:50 a 21:25 TBA.
 
 ### Office Hours
 <div id='id-office'/>
 
 * Viernes de 18:00 a 19:00.
 
+
 # Material del curso
 <div id='id-material'/>
 
- **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
- -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-  01      | 04.07.2023   | Introducción al curso. Normas matriciales. [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Trefethen-Bau, Lecture 3. 
+**No.**  | **Fecha**    | **Tópicos**                                                   | **Recursos**
+-------- | ------------ | ------------------------------------------------------------- |  ---------------------------------
+01       | 03.07.2024   | Inicio del curso. | 
+
   02      | 06.07.2023   | Ejemplo de norma 2. Conceptos: kernel, nulidad, rango. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Trefethen-Bau, Lecture 3. <br/> [norms.ipynb](code/norms.ipynb){:target="_blank"} 
   03      | 11.07.2023   | Descomposición espectral. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Trefethen-Bau, Lecture 4. <br/> [spectral.ipynb](code/spectral.ipynb){:target="_blank"}
   04      | 13.07.2023   | Descomposición en valores singulares (SVD). <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Trefethen-Bau, Lecture 5. <br/> [svd.ipynb](code/svd.ipynb){:target="_blank"}
