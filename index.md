@@ -52,11 +52,11 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 -------- | ------------ | ------------------------------------------------------------- |  ---------------------------------
 01       | 03.07.2024   | Inicio del curso. | 
 
-  02      | 06.07.2023   | Ejemplo de norma 2. Conceptos: kernel, nulidad, rango. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | T
-  
+ 
 # Proyectos
 <div id='id-proyectos'/>
 
+En el curso se realizarán varios proyectos, los cuales se indicarán más adelante.
 
 
 # Referencias
