@@ -14,6 +14,8 @@ Este es un curso introductorio a la modelación y simulación computacional, y e
 (2) Optimización numérica continua y discreta,
 (3) Simulación de fenómenos mediante distribuciones de probablidad. 
 
+Aquí hay que colocar otra descripción... 
+
 La primera parte el curso se enfoca en temas sobre cálculo de autovalores y autovectores, y la solución eficiente de sistemas lineales. En el segundo bloque, el bloque principal del curso, introduce los temas de optimización numérica, principalmente los métodos de gradiente y punto interior, así como métodos de la familia de gradiente conjugado y métodos quasi-Newton. El tema culmina haciendo un estudio de la teoría de optimización restricta, particularmente programación lineal y programación cuadrática. Finalmente, en el tercer bloque, hacemos una introducción a algunos métodos de optimización combinatoria y discreta. 
 
 **Importante!!** El curso cuenta con una parte práctica extensiva, en la que el estudiante implementará en código computacional cada uno de los algoritmos estudiados. Parte fundamental del curso consiste en utilizar las herramientas aprendidas en varios proyectos aplicados donde se trabajará con datos reales y comunicar los resultados mediante reportes técnicos y seminarios.
