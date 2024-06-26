@@ -52,7 +52,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | **Fecha**    | **Tópicos**                                                   | **Recursos**
 -------- | ------------ | ------------------------------------------------------------- |  ---------------------------------
-01       | 03.07.2024   | Inicio del curso. | 
+01       | 02.07.2024   | Inicio del curso. | 
 
  
 # Proyectos
