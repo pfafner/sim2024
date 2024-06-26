@@ -39,7 +39,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Horario
 <div id='id-horario'/>
 
-* Martes de 16:30 a 18:50 CIT-301, y Miércoles de 19:50 a 21:25 TBA.
+* Martes de 16:30 a 18:50 CIT-301, y Jueves de 17:20 a 18:50 CIT-215.
 
 ### Office Hours
 <div id='id-office'/>
