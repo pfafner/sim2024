@@ -5,9 +5,6 @@
 
 Sitio en construcción!   
 
-La información del curso estará disponible en breve. 
-
-
 Este es un curso introductorio a la modelación y simulación computacional, y en general al cómputo científico. Tiene como objetivo cubrir algunos temas relacionados con métodos numéricos computacionales, y se estudian algoritmos para cálculo científico y su implementación computacional. Se estudian tres grandes temas: 
 
 (1) Modelación continua y discreta, principalmente mediante EDO.
