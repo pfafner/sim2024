@@ -1,23 +1,16 @@
 # Modelación y Simulación 2024
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warning_icon.svg/1200px-Warning_icon.svg.png" alt="" width="100"/>
-
-Sitio en construcción!   
-
 Este es un curso introductorio a la modelación y simulación computacional, y en general al cómputo científico. Tiene como objetivo cubrir algunos temas relacionados con métodos numéricos computacionales, y se estudian algoritmos para cálculo científico y su implementación computacional. Se estudian tres grandes temas: 
 
 (1) Modelación continua y discreta, principalmente mediante EDO.
 (2) Optimización numérica continua y discreta,
 (3) Simulación de fenómenos mediante distribuciones de probablidad. 
 
-Aquí hay que colocar una descripción más detallada... 
+La primera parte el curso se enfoca en relacionados con modelos diferenciales: estudiamos algunas EDO y EDP clásicas, desde el enfoque de la construcción del modelo diferencial. Aprederemos algunas técnicas para analizar cualitativamente los modelos diferenciales, y aprenderemos algoritmos numéricos para la solución de EDOs y sistemas de EDOs. Introducimos algunos elementos de modelación con EPDs y un algoritmo de diferencias finitas para su solución numérica.
 
-La primera parte el curso se enfoca en relacionados con modelos diferenciales: estudiamos algunas EDO y EDP clásicas, desde el enfoque de la construcción del modelo diferencial. Aprederemos algunas técnicas para analizar cualitativamente los modelos diferenciales, y aprenderemos algoritmos numéricos para la solución de EDOs y sistemas de EDOs. 
+En el segundo bloque, introducimos los temas de optimización numérica. Iniciamos formulando problemas de programación lineal, y sus propiedades, e introducimos el algoritmo Simplex. Veremos aplicaciones de programación lineal en problemas de transporte y problemas de asignación. En seguida, hacemos una revisión de algunos métodos de optimización no lineal, principalmente los métodos de gradiente, así como métodos de la familia de gradiente conjugado y métodos quasi-Newton. El tema culmina una introducción a algunos métodos de optimización combinatoria y discreta. 
 
-En el segundo bloque, introducimos los temas de optimización numérica, principalmente los métodos de gradiente, así como métodos de la familia de gradiente conjugado y métodos quasi-Newton. El tema culmina haciendo un estudio de la teoría de optimización restricta, particularmente programación lineal. Al final hacemos una introducción a algunos métodos de optimización combinatoria y discreta. 
-
-En la parte final del curso hacemos uso de distribuciones de probabilidad, para modelar aquellos fenómenos en los que interviene algún componente estocástico. Abordaremos algoritmos numéricos para la generación de muestras aleatorias, y de distribuciones de probabilidad, y aplicaremos estos algoritmos al estudio de ciertos problemas de modelación.
+En la parte final del curso hacemos uso de distribuciones de probabilidad, para modelar aquellos fenómenos en los que interviene algún componente estocástico. Abordaremos algoritmos numéricos para la generación de muestras aleatorias de distribuciones de probabilidad, y aplicaremos estos algoritmos al estudio de ciertos problemas de modelación. Hacemos una revisión de teoría de colas, y cómo simularlas de forma computacional. Finalmente, introducimos algunos métodos de estadística bayesiana para simulación.
 
 **Importante!!** El curso cuenta con una parte práctica extensiva, en la que el estudiante implementará en código computacional cada uno de los algoritmos estudiados. Parte fundamental del curso consiste en utilizar las herramientas aprendidas en varios proyectos aplicados donde se trabajará con datos reales y comunicar los resultados mediante reportes técnicos y seminarios.
 
@@ -53,13 +46,13 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | **Fecha**    | **Tópicos**                                                   | **Recursos**
 -------- | ------------ | ------------------------------------------------------------- |  ---------------------------------
-01       | 02.07.2024   | Inicio del curso. | 
+01       | 04.07.2024   | Inicio del curso. | 
 
  
 # Proyectos
 <div id='id-proyectos'/>
 
-En el curso se realizarán varios proyectos, los cuales se indicarán más adelante.
+En el curso se realizarán dos proyectos, los cuales se indicarán más adelante.
 
 
 # Referencias
