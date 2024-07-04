@@ -58,6 +58,28 @@ En el curso se realizarán dos proyectos, los cuales se indicarán más adelante
 # Referencias
 <div id='id-ref'/>
 
-Se agregarán en breve. 
+### Textos: 
+
+* [S. Ross (2022). *Simulation*. 6th Ed.](http://library.lol/main/173766BF2DE3D62A9816564E7CDA4239){:target="_blank"}
+
+* [K. Atkinson, W. Han y D. Stewart (2009). *Numerical Solution of Ordinary Differential Equations*.](https://homepage.divms.uiowa.edu/~atkinson/papers/NAODE_Book.pdf){:target="_blank"}
+
+### Referencias adicionales:
+
+* [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](http://library.lol/main/87525D7D988D11F87963D6832EAA9493){:target="_blank"}
+
+* [J. Matousek, B. Gärtner, (2007). *Understanding and Using
+Linear Programming*.](http://library.lol/main/4E0F73DC6A1E36D157A69F09D3834452){:target="_blank"}
+
+* [M. Martcheva (2010). *An Introduction to Mathematical Epidemiology*.](http://library.lol/main/B49DE076CF4518052FFBA1E0B8D3BD1F){:target="_blank"}
+
+* [C. Robert y G. Casella (2004). *Monte Carlo Statistical Methods*.](http://library.lol/main/A910C1F6887E40EE92E4394860CFCAB8){:target="_blank"}
+
+* [C. Robert (2007). *The Bayesian Choice*.](http://library.lol/main/8AEA3ED2A08F9CAA0D58873CE3A6A45B){:target="_blank"}
+
+* [B. Zeigler, A. Muzy y E. Kofman (2019). *Theory of Modeling and Simulation*.](http://library.lol/main/E2ECE9CB0E7D0B070742712BF34FB081){:target="_blank"}
+
+* [J. A. Sokolowski y C. M. Banks (2010). *Modeling and Simulation Fundamentals*.](http://library.lol/main/F4F7B06B2CFA15FD273DBFE01B09D8EA){:target="_blank"}
+    
 
 --- 
