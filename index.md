@@ -47,6 +47,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 **No.**  | **Fecha**    | **Tópicos**                                                   | **Recursos**
 -------- | ------------ | ------------------------------------------------------------- |  ---------------------------------
 01       | 04.07.2024   | Inicio del curso. | 
+02       | 09.07.2024   | Generalidades sobre modelación. EDO. |  
 
  
 # Proyectos
