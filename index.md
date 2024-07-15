@@ -50,7 +50,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 02       | 09.07.2024   | Generalidades sobre modelación. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} |  
 03       | 09.07.2024   | EDO: clasificación, soluciones, teorema de existencia y unicidad. <br/> | [Apuntes de EDO](lectures/Apuntes_EDO.pdf){:target="_blank"} 
 04       | 11.07.2024   | Ejemplos existencia y unicidad. Análisis cualitativo de soluciones. <br/> | [Análisis cualitativo](lectures/Analisis_Cualitativo.pdf){:target="_blank"} 
-05       |  |  | 
+05       | 16.07.2024   | Campos direccionales. Diagramas de fase.  | 
 
 
 # Proyectos
