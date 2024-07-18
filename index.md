@@ -51,7 +51,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 03       | 09.07.2024   | EDO: clasificación, soluciones, teorema de existencia y unicidad. <br/> | [Apuntes de EDO](lectures/Apuntes_EDO.pdf){:target="_blank"} 
 04       | 11.07.2024   | Ejemplos existencia y unicidad. Análisis cualitativo de soluciones. <br/> | [Análisis cualitativo](lectures/Analisis_Cualitativo.pdf){:target="_blank"} 
 05       | 16.07.2024   | Campos direccionales. Diagramas de fase.  |  
-06       | 16.07.2024   | Ecuaciones autónomas. Puntos de equilibrio.  |  
+06       | 16.07.2024   | Ecuaciones autónomas. Puntos de equilibrio.  | 
+L1       | 18.07.2024   |  | [Lab 01](labs/Lab01.pdf){:target="_blank"} <br/> **Entrega: jueves 25 de julio. ** 
 
 
 # Proyectos
