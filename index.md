@@ -53,6 +53,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 05       | 16.07.2024   | Campos direccionales. Diagramas de fase.  |  
 06       | 16.07.2024   | Ecuaciones autónomas. Puntos de equilibrio.  | 
 L1       | 18.07.2024   | **Entrega:** <br/> ejercicios 1, 2 y 3, jueves 25 de julio. <br/> ejercicios 4 y 5, jueves 01 de agosto. | [Lab 01](labs/Lab01.pdf){:target="_blank"} <br/>  
+07       | 25.07.2024   | Algoritmos numéricos para hallar ceros.  | 
 
 
 # Proyectos
