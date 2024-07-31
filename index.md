@@ -55,6 +55,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 L1       | 18.07.2024   | **Entrega:** <br/> ejercicios 1, 2 y 3, jueves 25 de julio. <br/> ejercicios 4 y 5, jueves 01 de agosto. | [Lab 01](labs/Lab01.pdf){:target="_blank"} <br/>  
 07       | 25.07.2024   | Algoritmos numéricos para hallar ceros.  | 
 08       | 30.07.2024   | Clasificación de puntos de equilibro en R2. | [Clasificación](https://terpconnect.umd.edu/~petersd/246/stab.html){:target="_blank"} 
+09       | 30.07.2024   | Solución numérica de EDOs: Método de Euler, Heun, y método de Taylor de orden 2. | Burden-Faires, Cap. 5 
 
 
 # Proyectos
