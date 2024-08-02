@@ -53,7 +53,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 05       | 16.07.2024   | Campos direccionales. Diagramas de fase.  |  
 06       | 16.07.2024   | Ecuaciones autónomas. Puntos de equilibrio.  | 
 L1       | 18.07.2024   | **Entrega:** <br/> ejercicios 1, 2 y 3, jueves 25 de julio. <br/> ejercicios 4 y 5, jueves 01 de agosto. | [Lab 01](labs/Lab01.pdf){:target="_blank"} <br/>  
-07       | 25.07.2024   | Algoritmos numéricos para hallar ceros.  | 
+07       | 25.07.2024   | Algoritmos numéricos para hallar ceros. Método de Newton multidimensional. | Burden-Faires, Cap. 2 <br/> Burden-Faires, Cap. 10
 08       | 30.07.2024   | Clasificación de puntos de equilibro en R2. | [Clasificación](https://terpconnect.umd.edu/~petersd/246/stab.html){:target="_blank"} 
 09       | 30.07.2024   | Solución numérica de EDOs: Método de Euler, Heun, y método de Taylor de orden 2. | Burden-Faires, Cap. 5 
 L1       | 01.08.2024   | **Entrega:** <br/> ejercicios 1 y 4, jueves 01 de agosto. <br/> ejercicios 2, 3 y 5, jueves 08 de agosto. | [Lab 02](labs/Lab02.pdf){:target="_blank"} <br/>  
