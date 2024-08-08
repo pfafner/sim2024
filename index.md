@@ -58,6 +58,7 @@ L1       | 18.07.2024   | **Entrega:** <br/> ejercicios 1, 2 y 3, jueves 25 de j
 09       | 30.07.2024   | Solución numérica de EDOs: Método de Euler, Heun, y método de Taylor de orden 2. | Burden-Faires, Cap. 5 
 L2       | 01.08.2024   | **Entrega:** <br/> ejercicios 1 y 4, jueves 01 de agosto. <br/> ejercicios 2, 3 y 5, jueves 08 de agosto. | [Lab 02](labs/Lab02.pdf){:target="_blank"} 
 10       | 06.08.2024   | Método de Runge-Kutta orden 4. Solución de sistemas de EDO. | Burden-Faires, Cap. 5  
+L3       | 08.08.2024   | **Para entregar: martes 20 de agosto** <br/>  | [Lab 03](labs/Lab03.pdf){:target="_blank"} 
 
 
 # Proyectos
