@@ -59,7 +59,9 @@ L1       | 18.07.2024   | **Entrega:** <br/> ejercicios 1, 2 y 3, jueves 25 de j
 L2       | 01.08.2024   | **Entrega:** <br/> ejercicios 1 y 4, jueves 01 de agosto. <br/> ejercicios 2, 3 y 5, jueves 08 de agosto. | [Lab 02](labs/Lab02.pdf){:target="_blank"} 
 10       | 06.08.2024   | Método de Runge-Kutta orden 4. Solución de sistemas de EDO. | Burden-Faires, Cap. 5  
 L3       | 08.08.2024   | **Para entregar: martes 20 de agosto** <br/>  | [Lab 03](labs/Lab03.pdf){:target="_blank"} 
-.        | 22.08.2024   | Modelos de población. <br/>  |   
+11       | 22.08.2024   | Modelos de población. <br/>  |   
+12       | 27.08.2024   | Simulación de modelos de ploblación. <br/>  |   
+L4       | 29.08.2024   | **Para entregar: jueves 05 de septiembre** <br/>  | [Lab 04](labs/Lab04.pdf){:target="_blank"} 
 
 
 # Proyectos
