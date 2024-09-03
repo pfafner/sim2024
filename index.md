@@ -62,7 +62,6 @@ L3       | 08.08.2024   | **Para entregar: martes 20 de agosto** <br/>  | [Lab 0
 11       | 22.08.2024   | Modelos de población. <br/>  |   
 12       | 27.08.2024   | Simulación de modelos de ploblación. <br/>  |   
 L4       | 29.08.2024   | **Para entregar: jueves 05 de septiembre** <br/>  | [Lab 04](labs/Lab04.pdf){:target="_blank"} 
-.        |     |    |   
 
 
 # Proyectos
