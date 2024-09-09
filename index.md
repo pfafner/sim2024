@@ -64,6 +64,7 @@ L3       | 08.08.2024   | **Para entregar: martes 20 de agosto** <br/>  | [Lab 0
 L4       | 29.08.2024   | **Para entregar: jueves 05 de septiembre** <br/>  | [Lab 04](labs/Lab04.pdf){:target="_blank"} 
 13       | 03.09.2024   | Modelos de difusión. <br/>  |   
 L5       | 05.09.2024   | **Para entregar: jueves 19 de septiembre** <br/>  | [Lab 05](labs/Lab05.pdf){:target="_blank"} 
+.        |   |   |  
 
 
 # Proyectos
