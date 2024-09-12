@@ -70,8 +70,11 @@ L5       | 05.09.2024   | **Para entregar: jueves 19 de septiembre** <br/>  | [L
 # Proyectos
 <div id='id-proyectos'/>
 
-En el curso se realizarán dos proyectos, los cuales se indicarán más adelante.
+## Primer Proyecto 
 
+**No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
+-------- | ------------ | --------------------------------------------------------------- |  ---------------------
+1        |    |             | 
 
 # Referencias
 <div id='id-ref'/>
