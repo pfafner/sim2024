@@ -66,6 +66,7 @@ L4       | 29.08.2024   | **Para entregar: jueves 05 de septiembre** <br/>  | [L
 L5       | 05.09.2024   | **Para entregar: jueves 19 de septiembre** <br/>  | [Lab 05](labs/Lab05.pdf){:target="_blank"} 
 14       | 19.09.2024   | Programación Lineal. Forma estándar. <br/> |  
 15       | 24.09.2024   | Bases y soluciones básicas. Algoritmo Simplex. <br/> [Ejemplo 1](code/Ejemplo1.ipynb){:target="_blank"} [Ejemplo 3](code/Ejemplo3.ipynb){:target="_blank"} | Taha, Cap. 1 a 3
+L6       | 26.09.2024   | **Para entregar: jueves 03 de octubre** <br/>  | [Lab 06](labs/Lab06.pdf){:target="_blank"} 
 
 
 # Proyectos
