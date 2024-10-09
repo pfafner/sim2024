@@ -70,6 +70,7 @@ L6       | 26.09.2024   | **Para entregar: jueves 03 de octubre** <br/>  | [Lab 
 16       | 01.10.2024   | Modelo de transporte. Modelo de asignación. <br/> | Taha, Cap. 5
 17       | 03.10.2024   | Fundamentos de optimización continua. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
 18       | 03.10.2024   | Optimización 1-dimensional. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
+19       | 08.10.2024   | Descenso gradiente, *Steepest Descent*, y variantes. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
 
 
 # Proyectos
