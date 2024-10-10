@@ -71,6 +71,8 @@ L6       | 26.09.2024   | **Para entregar: jueves 03 de octubre** <br/>  | [Lab 
 17       | 03.10.2024   | Fundamentos de optimización continua. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
 18       | 03.10.2024   | Optimización 1-dimensional. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
 19       | 08.10.2024   | Descenso gradiente, *Steepest Descent*, y variantes. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
+20       | 10.10.2024   | Otros métodos de descenso gradiente. [Aula 23](aulas/Aula23.pdf){:target="_blank"} | 
+L7       | 10.10.2024   | **Para entregar: jueves 17 de octubre** <br/>  | [Lab 07](labs/Lab07.pdf){:target="_blank"} 
 
 
 # Proyectos
