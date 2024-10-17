@@ -75,6 +75,7 @@ L6       | 26.09.2024   | **Para entregar: jueves 03 de octubre** <br/>  | [Lab 
 L7       | 10.10.2024   | **Para entregar: jueves 17 de octubre** <br/>  | [Lab 07](labs/Lab07.pdf){:target="_blank"} 
 21       | 15.10.2024   | Optimización Discreta. Representaciones.  | 
 22       | 15.10.2024   | Algoritmos Genéticos. <br/> | 
+L8       | 17.10.2024   | **Para entregar: jueves 24 de octubre** <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"} 
 
 
 # Proyectos
