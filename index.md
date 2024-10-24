@@ -75,7 +75,7 @@ L6       | 26.09.2024   | **Para entregar: jueves 03 de octubre** <br/>  | [Lab 
 L7       | 10.10.2024   | **Para entregar: jueves 17 de octubre** <br/>  | [Lab 07](labs/Lab07.pdf){:target="_blank"} 
 21       | 15.10.2024   | Optimización Discreta. Representaciones. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | 
 22       | 15.10.2024   | Algoritmos Genéticos. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Operadores para TSP <br/> [Larrañaga et al.](lectures/Larranaga_GA_for_TSP.pdf){:target="_blank"}
-L8       | 17.10.2024   | **Para entregar: jueves 24 de octubre** <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"} 
+L8       | 17.10.2024   | **Para entregar: martes 29 de octubre** <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"} 
 
 
 # Proyecto de Curso
