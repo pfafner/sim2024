@@ -78,14 +78,16 @@ L7       | 10.10.2024   | **Para entregar: jueves 17 de octubre** <br/>  | [Lab 
 L8       | 17.10.2024   | **Para entregar: jueves 24 de octubre** <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"} 
 
 
-# Proyectos
+# Proyecto de Curso
 <div id='id-proyectos'/>
 
-## Primer Proyecto 
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 22.10.2024   | Proyecto - *Modelación o Simulación*.         | [Proyecto](proyectos/Proyecto.pdf){:target="_blank"} <br/> 
+ 2       | 04.11.2024   | Elección de tema.                             |  
+ 3       | 18-22.11.2024 | Presentaciones.                              |  
+ 4       | 24.11.2024   | Entrega de código, presentación e informa final. |  
 
-**No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
--------- | ------------ | --------------------------------------------------------------- |  ---------------------
-1        |    |             | 
 
 # Referencias
 <div id='id-ref'/>
