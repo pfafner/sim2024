@@ -76,6 +76,8 @@ L7       | 10.10.2024   | **Para entregar: jueves 17 de octubre** <br/>  | [Lab 
 21       | 15.10.2024   | Optimización Discreta. Representaciones. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | 
 22       | 15.10.2024   | Algoritmos Genéticos. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Operadores para TSP <br/> [Larrañaga et al.](lectures/Larranaga_GA_for_TSP.pdf){:target="_blank"}
 L8       | 17.10.2024   | **Para entregar: martes 29 de octubre** <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"} 
+23       | 22.10.2024   | Variables aleatorias. Densidad y función de distribución. | 
+24       | 24.10.2024   | Método de la transformada inversa. <br/>  | 
 
 
 # Proyecto de Curso
