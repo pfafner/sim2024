@@ -78,7 +78,8 @@ L7       | 10.10.2024   | **Para entregar: jueves 17 de octubre** <br/>  | [Lab 
 L8       | 17.10.2024   | **Para entregar: martes 29 de octubre** <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"} 
 23       | 22.10.2024   | Variables aleatorias. Densidad y función de distribución. | 
 24       | 24.10.2024   | Método de la transformada inversa. <br/>  | 
-25       |    |   | 
+L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [Lab 09](labs/Lab09.pdf){:target="_blank"} 
+
 
 
 # Proyecto de Curso
