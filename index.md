@@ -80,7 +80,9 @@ L8       | 17.10.2024   | **Para entregar: martes 29 de octubre** <br/>  | [Lab 
 24       | 24.10.2024   | Método de la transformada inversa. <br/>  | 
 L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [Lab 09](labs/Lab09.pdf){:target="_blank"} 
 25       | 05.11.2024   | Teoría de colas. Relación entre exponencial y Poisson. |  
-
+26       | 07.11.2024   | Modelo de colas de Poisson generalizado. <br/> |  
+27       | 12.11.2024   | Notación de Kendall. Sistemas (M/M/1) y (M/M/c). <br/> | 
+28       | 14.11.2024   | Corto 2. | [Corto 02](cortos/Corto02.pdf){:target="_blank"}  
 
 
 # Proyecto de Curso
