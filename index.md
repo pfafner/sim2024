@@ -103,6 +103,8 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
 
 * [K. Atkinson, W. Han y D. Stewart (2009). *Numerical Solution of Ordinary Differential Equations*.](https://homepage.divms.uiowa.edu/~atkinson/papers/NAODE_Book.pdf){:target="_blank"}
 
+* [H. Taha (2017). *Investigación de Operaciones*. 10th Ed.](http://library.lol/main/C25C4AA31A4B1A6C43FC3A48108FF1DA){:target="_blank"}
+
 ### Referencias adicionales:
 
 * [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](http://library.lol/main/87525D7D988D11F87963D6832EAA9493){:target="_blank"}
