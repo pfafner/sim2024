@@ -82,7 +82,7 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
 25       | 05.11.2024   | Teoría de colas. Relación entre exponencial y Poisson. | Taha, Cap. 6 
 26       | 07.11.2024   | Modelo de colas de Poisson generalizado. <br/> | Taha, Cap. 6 
 27       | 12.11.2024   | Notación de Kendall. Sistemas (M/M/1) y (M/M/c). <br/> | Taha, Cap. 6
-28       | 14.11.2024   | Corto 2. | [Corto 02](cortos/Corto02.pdf){:target="_blank"}  
+28       | 14.11.2024   | Corto 2. <br/> | [Corto 02](cortos/Corto02.pdf){:target="_blank"}  
 
 
 # Proyecto de Curso
