@@ -101,9 +101,16 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
 ---------- | ------------ | ---------- | -----------------------------------------------
  Grupo 8   | Lunes 18     | 17:30      | Emilio Solano, Eunice Mata, Astrid Glauser 
  Grupo 3   | Lunes 18     | 18:00      | Abner García, Gonzalo Santizo, Oscar Donis 
- Grupo 12  | Miércoles 20 | 16:00      | Samuel Chamalé, Adrián Rodríguez, Daniel Gómez  
+ Grupo 1   | Miércoles 20 | 16:00      | Samuel Chamalé, Adrián Rodríguez, Daniel Gómez  
+ Grupo 2   | ? | ? | 
+ Grupo 4   | ? | ? | 
+ Grupo 5   | ? | ? | 
+ Grupo 6   | ? | ? | 
+ Grupo 7   | ? | ? | 
+ Grupo 9   | ? | ? | 
+ Grupo 10  | ? | ? | 
+ Grupo 12  | ? | ? | 
 
- 
  
 # Referencias
 <div id='id-ref'/>
