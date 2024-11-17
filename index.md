@@ -93,7 +93,7 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
  1       | 22.10.2024   | Proyecto - *Modelación o Simulación*.         | [Proyecto](proyectos/Proyecto.pdf){:target="_blank"} <br/> 
  2       | 04.11.2024   | Elección de tema.                             |  
  3       | 18-22.11.2024 | Presentaciones.                              |  
- 4       | 24.11.2024   | Entrega de código, presentación e informa final. |  
+ 4       | 24.11.2024   | Entrega de código, presentación e informe final. |  
 
 ## Horarios Presentación de Proyecto 
 
