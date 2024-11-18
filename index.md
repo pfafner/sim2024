@@ -104,12 +104,12 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
  Grupo 6   | Martes 19    | 16:30      | Mario Guerra, Diego Hernández, Linda Jiménez
  Grupo 10  | Martes 19    | 17:30      | Javier Chavez, Mario Cristales, Andres Quezada, Javier Ramírez 
  Grupo 12  | Miércoles 20 | 16:00      | Samuel Chamalé, Adrián Rodríguez, Daniel Gómez  
+ Grupo 9   | Miércoles 20 | 18:30      | Adrian Fulladolsa, Elías Alvarado, Sebastían Silva 
  Grupo 7   | Jueves 21    | 17:00      | Brian Carrillo, Carlos López, Josué Morales, Marco Ramírez 
  Grupo 4   | Viernes 22   | 16:00      | Adrián Flores, Daniel Valdez, Andrea Ramírez  
  Grupo 2   | Viernes 22   | 18:00      | Diego Morales, Pablo Zamora, Erick Guerra 
  Grupo 5   | ? | ? | 
  Grupo 1   | ? | ? | 
- Grupo 9   | ? | ? | 
  
  
 # Referencias
