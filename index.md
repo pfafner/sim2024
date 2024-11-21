@@ -107,9 +107,9 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
  Grupo 9   | Miércoles 20 | 18:30      | Adrian Fulladolsa, Elías Alvarado, Sebastían Silva 
  Grupo 4   | Viernes 22   | 16:00      | Adrián Flores, Daniel Valdez, Andrea Ramírez  
  Grupo 7   | Viernes 22   | 16:30      | Brian Carrillo, Carlos López, Josué Morales, Marco Ramírez 
- Grupo 2   | Viernes 22   | 18:00      | Diego Morales, Pablo Zamora, Erick Guerra 
  Grupo 5   | Viernes 22   | 17:00      | Kristopher Alvarado, David Aragón, Renatto Guzmán 
- Grupo 1   | ? | ? | 
+ Grupo 1   | Viernes 22   | 17:30      | Alfredo Quezada, Sebastián Estrada, Andrés Paiz 
+ Grupo 2   | Viernes 22   | 18:00      | Diego Morales, Pablo Zamora, Erick Guerra 
  
  
 # Referencias
