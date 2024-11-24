@@ -83,6 +83,7 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
 26       | 07.11.2024   | Modelo de colas de Poisson generalizado. <br/> | Taha, Cap. 6 
 27       | 12.11.2024   | Notación de Kendall. Sistemas (M/M/1) y (M/M/c). <br/> | Taha, Cap. 6
 28       | 14.11.2024   | Corto 2. <br/> | [Corto 02](cortos/Corto02.pdf){:target="_blank"}  
+29       | 18.11.2024   | Revisión de proyectos de curso. <br/> |  
 
 
 # Proyecto de Curso
