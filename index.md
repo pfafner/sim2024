@@ -4,7 +4,7 @@ Este es un curso introductorio a la modelación y simulación computacional, y e
 
 (1) Modelación continua y discreta, principalmente mediante EDO.
 (2) Optimización numérica continua y discreta,
-(3) Simulación de fenómenos mediante distribuciones de probablidad. 
+(3) Simulación de fenómenos mediante distribuciones de probabilidad. 
 
 La primera parte el curso se enfoca en relacionados con modelos diferenciales: estudiamos algunas EDO y EDP clásicas, desde el enfoque de la construcción del modelo diferencial. Aprederemos algunas técnicas para analizar cualitativamente los modelos diferenciales, y aprenderemos algoritmos numéricos para la solución de EDOs y sistemas de EDOs. Introducimos algunos elementos de modelación con EPDs y un algoritmo de diferencias finitas para su solución numérica.
 
