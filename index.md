@@ -96,21 +96,21 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
  3       | 18-22.11.2024 | Presentaciones.                              |  
  4       | 24.11.2024   | Entrega de código, presentación e informe final. |  
 
-## Presentación de Proyecto 
+## Proyectos Finales
 
-**Grupo**  | **Fecha**    | **Hora**   | **Integrantes**                               
----------- | ------------ | ---------- | -----------------------------------------------
- Grupo 8   | Lunes 18     | 17:30      | Emilio Solano, Eunice Mata, Astrid Glauser 
- Grupo 3   | Lunes 18     | 18:00      | Abner García, Gonzalo Santizo, Oscar Donis 
- Grupo 6   | Martes 19    | 16:30      | Mario Guerra, Diego Hernández, Linda Jiménez
- Grupo 10  | Martes 19    | 17:30      | Javier Chavez, Mario Cristales, Andres Quezada, Javier Ramírez 
- Grupo 12  | Miércoles 20 | 16:00      | Samuel Chamalé, Adrián Rodríguez, Daniel Gómez  
- Grupo 9   | Miércoles 20 | 18:30      | Adrian Fulladolsa, Elías Alvarado, Sebastían Silva 
- Grupo 4   | Viernes 22   | 16:00      | Adrián Flores, Daniel Valdez, Andrea Ramírez  
- Grupo 7   | Viernes 22   | 16:30      | Brian Carrillo, Carlos López, Josué Morales, Marco Ramírez 
- Grupo 5   | Viernes 22   | 17:00      | Kristopher Alvarado, David Aragón, Renatto Guzmán 
- Grupo 1   | Viernes 22   | 17:30      | Alfredo Quezada, Sebastián Estrada, Andrés Paiz 
- Grupo 2   | Viernes 22   | 18:00      | Diego Morales, Pablo Zamora, Erick Guerra 
+**Grupo**  | **Integrantes**                               
+---------- | -----------------------------------------------
+ Grupo 8   | Emilio Solano, Eunice Mata, Astrid Glauser 
+ Grupo 3   | Abner García, Gonzalo Santizo, Oscar Donis 
+ Grupo 6   | Mario Guerra, Diego Hernández, Linda Jiménez
+ Grupo 10  | Javier Chavez, Mario Cristales, Andres Quezada, Javier Ramírez 
+ Grupo 12  | Samuel Chamalé, Adrián Rodríguez, Daniel Gómez  
+ Grupo 9   | Adrian Fulladolsa, Elías Alvarado, Sebastían Silva 
+ Grupo 4   | Adrián Flores, Daniel Valdez, Andrea Ramírez  
+ Grupo 7   | Brian Carrillo, Carlos López, Josué Morales, Marco Ramírez 
+ Grupo 5   | Kristopher Alvarado, David Aragón, Renatto Guzmán 
+ Grupo 1   | Alfredo Quezada, Sebastián Estrada, Andrés Paiz 
+ Grupo 2   | Diego Morales, Pablo Zamora, Erick Guerra 
  
  
 # Referencias
