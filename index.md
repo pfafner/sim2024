@@ -100,17 +100,17 @@ L9       | 31.10.2024   | **Para entregar: jueves 07 de noviembre** <br/>  | [La
 
 **Grupo**  | **Integrantes**                               
 ---------- | -----------------------------------------------
- Grupo 8   | Emilio Solano, Eunice Mata, Astrid Glauser 
- Grupo 3   | Abner García, Gonzalo Santizo, Oscar Donis 
- Grupo 6   | Mario Guerra, Diego Hernández, Linda Jiménez
- Grupo 10  | Javier Chavez, Mario Cristales, Andres Quezada, Javier Ramírez 
- Grupo 12  | Samuel Chamalé, Adrián Rodríguez, Daniel Gómez  
- Grupo 9   | Adrian Fulladolsa, Elías Alvarado, Sebastían Silva 
- Grupo 4   | Adrián Flores, Daniel Valdez, Andrea Ramírez  
- Grupo 7   | Brian Carrillo, Carlos López, Josué Morales, Marco Ramírez 
- Grupo 5   | Kristopher Alvarado, David Aragón, Renatto Guzmán 
- Grupo 1   | Alfredo Quezada, Sebastián Estrada, Andrés Paiz 
- Grupo 2   | Diego Morales, Pablo Zamora, Erick Guerra 
+ Grupo 8   | Emilio Solano, Eunice Mata, Astrid Glauser <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ Grupo 3   | Abner García, Gonzalo Santizo, Oscar Donis <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ Grupo 6   | Mario Guerra, Diego Hernández, Linda Jiménez <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ Grupo 10  | Javier Chavez, Mario Cristales, Andres Quezada, Javier Ramírez <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ Grupo 12  | Samuel Chamalé, Adrián Rodríguez, Daniel Gómez <br/> [Presentación](proyectos/X.pdf){:target="_blank"}  
+ Grupo 9   | Adrian Fulladolsa, Elías Alvarado, Sebastían Silva <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ Grupo 4   | Adrián Flores, Daniel Valdez, Andrea Ramírez <br/> [Presentación](proyectos/X.pdf){:target="_blank"}  
+ Grupo 7   | Brian Carrillo, Carlos López, Josué Morales, Marco Ramírez <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ Grupo 5   | Kristopher Alvarado, David Aragón, Renatto Guzmán <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ Grupo 1   | Alfredo Quezada, Sebastián Estrada, Andrés Paiz <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ Grupo 2   | Diego Morales, Pablo Zamora, Erick Guerra <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
  
  
 # Referencias
